@@ -19,7 +19,7 @@ body{
   font-size: 16px;
   margin: 1.2em;
   font-family: "Andika", sans-serif;
-  background: url("../images/pigeon-background.JPEG") #DDDDDD;
+  background: url("../images/pigeon-background.JPEG") no-repeat #DDDDDD;
   background-size: cover;
   background-position: center;
 }
@@ -59,9 +59,8 @@ td{
   padding: 10px;
   color: #FFFFFF;
   text-align: center;
-  vertical-align: center;
   background-color: #7e0820;
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
 
 .rowhead{
